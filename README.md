@@ -1,19 +1,53 @@
-# Superstore Database Testing Project
+# 🧪 Superstore Database Testing Portfolio
 
-This project contains hands-on SQL queries for database testing using a Superstore-style schema.
+This repository presents hands-on SQL-based **database testing** work using a fictional **Superstore** dataset. It reflects real-world QA practices such as data validation, referential integrity checks, and analytical testing — relevant for **SQA Engineers**, **Database Testers**, and QA professionals looking to showcase backend data validation skills.
 
-## Structure
+## 📁 Project Structure
 
-- **01_Schema_Creation.sql** – Schema with tables, keys, constraints
-- **02_Data_Entry.sql** – Sample data insertion
-- **03_Test_Queries/**
-  - `01_Data_Validation_Queries.sql` – Basic validation queries
-  - `02_Grouping_Aggregation_Queries.sql` – Group by, aggregations
-  - `03_Join_Based_Validation_Queries.sql` – Join-based data testing
-- **PDF_Versions/** – Readable versions of all query files
+```
+superstore-database-testing/
+│
+├── 01_Schema_Creation.sql
+├── 02_Data_Entry.sql
+│
+├── 3_Test_Queries/
+│   ├── 01_Data_Validation_Queries.sql
+│   ├── 02_Grouping_Aggregation_Queries.sql
+│   ├── 03_Join_Based_Validation_Queries.sql
+│
+├── 3_Test_Queries/PDF_Versions/
+│   ├── 01_Data_Validation_Queries.pdf
+│   ├── 02_Grouping_Aggregation_Queries.pdf
+│   ├── 03_Join_Based_Validation_Queries.pdf
+```
 
-## Skills Demonstrated
 
-- SQL joins, aggregations, filtering
-- Data validation techniques
-- Handling NULLs and date-based queries
+## ✅ Test Coverage Areas
+
+- 🔗 **Referential Integrity Testing**
+- 🔍 **Filtering & Condition-Based Queries**
+- 📊 **Grouping, Aggregation, and Sorting Logic**
+- 🔁 **Multi-Table Joins for Relationship Validation**
+- ⚠️ **Handling NULLs and Missing Data**
+- 📈 **Business Rule Testing**
+  - Late deliveries
+  - High-value product sales
+  - Customer segment distribution
+
+---
+
+## 🛠️ Tools & Environment
+
+- **MySQL Workbench**
+- Manual SQL Query Execution for QA-style data validation
+
+---
+
+## 🎯 Objective
+
+To **demonstrate database testing proficiency** in a QA context by writing and executing SQL queries for validating data accuracy, business rules, and relational integrity in a normalized schema.
+
+This portfolio simulates the practical responsibilities of a QA Engineer involved in **backend/database testing** tasks.
+
+---
+
