@@ -1,4 +1,4 @@
-# 🧪 Superstore Database Testing Portfolio
+# Superstore Database Testing Portfolio
 
 This repository presents hands-on SQL-based **database testing** work using a fictional **Superstore** dataset. It reflects real-world QA practices such as data validation, referential integrity checks, and analytical testing — relevant for **SQA Engineers**, **Database Testers**, and QA professionals looking to showcase backend data validation skills.
 
@@ -43,7 +43,14 @@ superstore-database-testing/
 
 ---
 
-## 🎯 Objective
+---
+
+## 🗺️ EER Diagram (Entity-Relationship Model)
+
+This diagram illustrates the table relationships and foreign key structure in the Superstore database schema.
+
+![Superstore EER Diagram](4_EER_Diagrams/Superstore_EER_Diagram.png)
+
 
 To **demonstrate database testing proficiency** in a QA context by writing and executing SQL queries for validating data accuracy, business rules, and relational integrity in a normalized schema.
 
