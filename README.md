@@ -19,6 +19,9 @@ superstore-database-testing/
 │   ├── 01_Data_Validation_Queries.pdf
 │   ├── 02_Grouping_Aggregation_Queries.pdf
 │   ├── 03_Join_Based_Validation_Queries.pdf
+│
+├── 4_EER_Diagrams/
+│   ├── Superstore_EER_Diagram.png
 ```
 
 
@@ -43,6 +46,12 @@ superstore-database-testing/
 
 ---
 
+## 🧭 Objective
+
+To **demonstrate database testing proficiency** in a QA context by writing and executing SQL queries to validate data accuracy, business rules, and relational integrity within a normalized relational schema.
+
+This project simulates the practical responsibilities of a QA Engineer performing **backend/database testing** tasks.
+
 ---
 
 ## 🗺️ EER Diagram (Entity-Relationship Model)
@@ -51,10 +60,4 @@ This diagram illustrates the table relationships and foreign key structure in th
 
 ![Superstore EER Diagram](4_EER_Diagrams/Superstore_EER_Diagram.png)
 
-
-To **demonstrate database testing proficiency** in a QA context by writing and executing SQL queries for validating data accuracy, business rules, and relational integrity in a normalized schema.
-
-This portfolio simulates the practical responsibilities of a QA Engineer involved in **backend/database testing** tasks.
-
 ---
-
